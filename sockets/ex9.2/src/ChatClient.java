@@ -17,9 +17,9 @@ public class ChatClient {
         PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
 
         out.println(input.nextLine());
-
         String reply = in.readLine();
         System.out.println(reply);
+
         if (reply.equals("Connected")) {
             Thread thread = new Thread(() -> {
                 try {

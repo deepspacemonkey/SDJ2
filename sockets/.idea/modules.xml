@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ex9.1/ex9.1.iml" filepath="$PROJECT_DIR$/ex9.1/ex9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex9.1_UDP/ex9.1_UDP.iml" filepath="$PROJECT_DIR$/ex9.1_UDP/ex9.1_UDP.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex9.2/ex9.2.iml" filepath="$PROJECT_DIR$/ex9.2/ex9.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sockets.iml" filepath="$PROJECT_DIR$/sockets.iml" />
     </modules>

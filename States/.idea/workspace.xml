@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a50f5cc5-bd16-4ef2-b4c3-dc62ee03c056" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MVVM3-Auction/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/Door.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/DoorClosed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/DoorClosing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/DoorOpen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/DoorOpening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/DoorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/DoorStayOpen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Door/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobilePhone/src/AlertState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobilePhone/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobilePhone/src/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobilePhone/src/SilentState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobilePhone/src/SoundState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MobilePhone/src/VibrationState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FootballObserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FootballObserver/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/model/AuctionItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/model/AuctionItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/model/AuctionModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/model/AuctionModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/model/AuctionModelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/model/AuctionModelManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/viewmodel/AuctionItemViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/AuctionHouse/src/viewmodel/AuctionItemViewModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/model/AuctionItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/model/AuctionItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/model/AuctionModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/model/AuctionModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/model/AuctionModelManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/model/AuctionModelManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/viewmodel/AuctionItemViewModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../MVVM3-Auction/out/production/MVVM3-Auction/viewmodel/AuctionItemViewModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sockets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../sockets/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

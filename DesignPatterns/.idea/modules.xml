@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Flyweight/Flyweight.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Flyweight/Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Adapter/List/List.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Adapter/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Multiton/Multiton.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Multiton/Multiton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/ProjectGlossary.iml" filepath="$PROJECT_DIR$/ProjectGlossary/ProjectGlossary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Proxy/Queue/Queue.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Proxy/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Proxy/Seabear/Seabear.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Proxy/Seabear/Seabear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectGlossary/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/ProjectGlossary/Singleton/Singleton.iml" />
+    </modules>
+  </component>
+</project>
